@@ -1,0 +1,33 @@
+*{
+  background: url("http://cdn.akc.org/content/article-body-image/dog_fur_body.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+h1, h3{
+  text-align:center;
+}
+
+.intro-pic{
+  text-align: center;
+  display:block;
+  width: 25em;
+  height: 25em;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+button{
+  margin-top: 15px;
+box-sizing: border-box;
+text-align: center;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+}
+
+button:hover{
+  cursor: pointer;
+   background: url("https://i.pinimg.com/originals/07/b8/7e/07b87eafdff00a756dd07c2b3dcf59ba.jpg") no-repeat center fixed;
+}
